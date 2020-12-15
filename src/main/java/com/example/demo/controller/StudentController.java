@@ -1,5 +1,6 @@
-package com.example.demo.student;
+package com.example.demo.controller;
 
+import com.example.demo.student.Student;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

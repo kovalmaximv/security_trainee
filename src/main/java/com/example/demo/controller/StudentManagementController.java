@@ -1,5 +1,6 @@
-package com.example.demo.student;
+package com.example.demo.controller;
 
+import com.example.demo.student.Student;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
